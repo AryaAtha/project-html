@@ -1,0 +1,33 @@
+.judul{
+	text-align: center;
+	color: red;
+}
+
+article {
+	text-align: center;
+}
+
+.table{
+	 
+	max-width: 600px;
+	margin: 3em;
+	
+}
+
+footer{
+	text-align: center;
+}
+
+img{
+	width: 200;
+	height: 200;
+	border-radius: 45%;
+}
+
+.contact{
+	text-align: center;
+}
+
+.link{
+	text-align: left;
+}
