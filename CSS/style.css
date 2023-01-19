@@ -31,3 +31,12 @@ img{
 .link{
 	text-align: left;
 }
+
+.boldr{
+	color: red;
+	font-weight: bold;
+}
+
+.font{
+	font-family: bahnschrift;
+}
