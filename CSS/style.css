@@ -16,6 +16,12 @@ article {
 
 footer{
 	text-align: center;
+	style="font-family: arial; 
+	background-color: dimgray;
+}
+
+.twarna{
+	background-color: dimgray;
 }
 
 img{
