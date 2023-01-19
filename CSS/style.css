@@ -40,3 +40,13 @@ img{
 .font{
 	font-family: bahnschrift;
 }
+
+.font2{
+	font-family: candara;
+}
+
+.boldy{
+	color: yellow;
+	font-weight: bold;
+	font-family: candara;
+}
